@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skarat-enf
+- 👋 Hi, I’m Sriragh
 - 👀 My interests are mainly in kernel programming, distributed computing and embedded devices 
 - 🌱 I’m currently learning a bunch of things:
     - Always trying to improve my programming skills in C
