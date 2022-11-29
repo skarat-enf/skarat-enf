@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning a bunch of things:
     - Always trying to improve my programming skills in C
     - Learn and improve Python utilities
-    - Curious about RUST
+    - Curious about Rust
     - Learn about new frameworks used in Linux OS, distributed computing and embedded devices   
 - 📫 How to reach me:
     - sriragh@enfabrica.net
